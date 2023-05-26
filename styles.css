@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+
+}
+
+ol{
+    display: inline-block;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 80px;
+    border: blue;
+    font-family: 'Signika Negative', sans-serif;
+
+}
+
+
