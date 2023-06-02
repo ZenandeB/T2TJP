@@ -1,0 +1,293 @@
+
+
+body{
+    background-color: #F5F5F5;
+}
+
+h2{
+    margin-left: 142px;
+    margin-bottom: 70px;
+    padding-top: 78px;
+    text-align: left;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 24px;
+}
+
+div{
+position: relative;
+background: #FFFFFF;
+width: 1134px;
+height: 1189px;
+top: 78px;
+margin-left: 20px;
+text-align: left;
+}
+
+input{
+ margin-left: 290px;
+}
+label{
+    width: 95px;
+    height: 24px;
+    display: inline-block;
+    margin-left: 142px;
+}
+.N{
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.N2{
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.US{
+    margin-top: 50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.US2{
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.PS{
+    margin-top: 50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.PS2{
+    
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.REP{
+    display: inline;   
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.REP2{
+    margin-left: 112px;
+    margin-top: 50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+
+.PN{
+    display: inline;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+    margin-left: 140px;
+}
+
+.PN2{
+    margin-left: 140px;
+    margin-top: 50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.EM{
+    margin-top: 50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.EM2{
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+    margin-left: 270px;
+}
+select{
+    width: 427px;
+    height: 60px;
+    margin-left: 272px;
+    margin-right: 0px;
+    display: inline-block;
+    margin-top: 80px;
+    padding-inline: 50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+    color: #797979;
+    
+}
+.COL{
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+
+.submit{
+    width: 95px;
+    height: 24px;
+    margin-left: 65px;
+    margin-top: 0px;
+    position: absolute;
+    width: 400px;
+    height: 56px;
+    left: 454px;
+    top: 1063px;
+    background: #155EEF;
+    color: white;
+    border: none;
+}
+
+.radio{
+    width: 10px;
+    margin-left: 0px
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.radio2{
+    margin-left: 0px;
+    margin-left: 0px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.G{
+    margin-top: 50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.Female{
+   margin-right: 0px;
+   margin-left: 0px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.Male{
+    margin-right: 0px;
+    margin-left: 0px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.checkbox{
+    width: 10px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+    margin-left: 190px;
+}
+.html{
+    margin-left: 0px;
+    margin-right: 60px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.CSS{
+    margin-left: -50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+
+}
+.CSS2{
+    margin-left: 0px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.JS{
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.JS2{
+    margin-left: 0px;
+    margin-top: 50px;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+.TS{
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+    display: inline;
+}
+.placeholder{
+    position: absolute;
+    width: 154px;
+    height: 24px;
+    left: 16px;
+    top: 16px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #797979;
+}
